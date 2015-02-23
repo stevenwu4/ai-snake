@@ -1,0 +1,62 @@
+For search type (<function breadth_first_search at 0x102c1b938>, None) 1000 iterations
+On dimension 20x20 grid with 40 obstacles
+Averaged 166.066 nodes processed per iteration
+with an average of 1.6209686048 seconds per iteration
+with 0 failures
+
+For search type (<function depth_first_search at 0x102c1b9b0>, None) 1000 iterations
+On dimension 20x20 grid with 40 obstacles
+Averaged 151.246 nodes processed per iteration
+with an average of 1.37472397494 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_manhattan_distance at 0x102c1ba28>) 1000 iterations
+On dimension 20x20 grid with 40 obstacles
+Averaged 35.776 nodes processed per iteration
+with an average of 0.238817284822 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_euclidean_distance at 0x102c1baa0>) 1000 iterations
+On dimension 20x20 grid with 40 obstacles
+Averaged 57.786 nodes processed per iteration
+with an average of 0.435701697111 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_average_of_distance_heuristics at 0x102c1bb18>) 1000 iterations
+On dimension 20x20 grid with 40 obstacles
+Averaged 46.607 nodes processed per iteration
+with an average of 0.341199181557 seconds per iteration
+with 0 failures
+
+===================================================================
+
+For search type (<function breadth_first_search at 0x102c1b938>, None) 1000 iterations
+On dimension 20x20 grid with 1 obstacles
+Averaged 178.449 nodes processed per iteration
+with an average of 1.60393300819 seconds per iteration
+with 0 failures
+
+For search type (<function depth_first_search at 0x102c1b9b0>, None) 1000 iterations
+On dimension 20x20 grid with 1 obstacles
+Averaged 173.989 nodes processed per iteration
+with an average of 1.48429687119 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_manhattan_distance at 0x102c1ba28>) 1000 iterations
+On dimension 20x20 grid with 1 obstacles
+Averaged 37.847 nodes processed per iteration
+with an average of 0.185594278574 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_euclidean_distance at 0x102c1baa0>) 1000 iterations
+On dimension 20x20 grid with 1 obstacles
+Averaged 60.997 nodes processed per iteration
+with an average of 0.330033827066 seconds per iteration
+with 0 failures
+
+For search type (<function a_star_search at 0x102c1bb90>, <function return_average_of_distance_heuristics at 0x102c1bb18>) 1000 iterations
+On dimension 20x20 grid with 1 obstacles
+Averaged 51.028 nodes processed per iteration
+with an average of 0.275292210579 seconds per iteration
+with 0 failures
+
